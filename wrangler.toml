@@ -1,0 +1,7 @@
+# Cloudflare Pages: имя проекта (создаётся при первом деплое или в Dashboard).
+# Смените `name` на своё короткое имя латиницей без пробелов.
+name = "777-garage"
+compatibility_date = "2025-04-01"
+
+# Каталог статики после `npm run build` (Vite → dist)
+pages_build_output_dir = "dist"
